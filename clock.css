@@ -1,0 +1,19 @@
+.clock{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100%;
+    margin-top: 21%;
+    margin-left: 52%;
+    font-size: 150px;
+    border: 6px solid white;
+
+}
+body{
+    background-color: black;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/012/681/483/original/technology-backgroun-abstract-analog-clock-and-time-speed-concept-free-vector.jpg');
+    background-size: cover;
+    position: relative;
+}
